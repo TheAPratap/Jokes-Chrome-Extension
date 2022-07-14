@@ -1,3 +1,3 @@
 # Jokes-Chrome-Extension
 
-Click on this google chrome extension to get a random Joke every time 😂
+Click on this Google Chrome Extension to get a random Joke every time 😂
