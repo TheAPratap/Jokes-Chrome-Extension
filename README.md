@@ -13,10 +13,10 @@ Click on this Google Chrome Extension to get a random Joke every time 😂
 # Tech Used
  <div style="display: flex;">
    <a href="https://reactjs.org">
-     <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML_Logo" width="50"/>
+     <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML_Logo" width="40"/>
    </a>
    <a href="https://reactjs.org">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS_Logo" width="50"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS_Logo" width="40"/>
    </a>
    <a href="https://www.javascript.com">
     <img src="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png" alt="JS_Logo" width="75"/>
